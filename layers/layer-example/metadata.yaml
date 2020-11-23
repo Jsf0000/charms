@@ -1,0 +1,9 @@
+name: example-jason
+summary: A very basic example charm
+maintainer: Your Name <jmsolano@akurey.com>
+description: |
+  This is a charm I built as part of my beginner charming tutorial.
+series: ["xenial", "bionic", "trusty"]
+tags:
+  - misc
+  - tutorials
