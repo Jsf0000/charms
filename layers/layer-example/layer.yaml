@@ -1,0 +1,8 @@
+includes: 
+  - 'layer:basic'
+  - 'layer:apt'
+  - 'interface:mysql'
+options:
+  apt:
+    packages:
+     - hello

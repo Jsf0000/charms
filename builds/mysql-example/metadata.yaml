@@ -1,0 +1,15 @@
+"name": "mysql-example"
+"summary": "A very basic example charm"
+"maintainer": "Your Name <your.name@mail.com>"
+"description": |
+  This is a charm I built as part of my beginner charming tutorial.
+"tags":
+- "misc"
+- "tutorials"
+"series":
+- "xenial"
+- "bionic"
+- "trusty"
+"requires":
+  "database":
+    "interface": "mysql"
