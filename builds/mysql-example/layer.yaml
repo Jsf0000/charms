@@ -8,7 +8,7 @@
 "options":
   "apt":
     "packages":
-    - "hello"
+    - "mysql-server"
     "version_package": ""
     "full_version": !!bool "false"
     "keys": []

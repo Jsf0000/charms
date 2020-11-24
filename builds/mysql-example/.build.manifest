@@ -17,7 +17,7 @@
       "url": "layer:apt"
     },
     {
-      "rev": "aedb0ce14118f4736ea95e1150d9a7bd2f411986",
+      "rev": "16ddc9b14281bcc18a8d67a7caba6f5614d50624",
       "url": "mysql-example"
     },
     {
@@ -234,7 +234,7 @@
     "layer.yaml": [
       "mysql-example",
       "dynamic",
-      "c4017ae706112ba57ca22287871889ffe0ff384df2b3a5efe7339c08adc92edc"
+      "1a7f82a07cb2eb8ce0dbe8d3dcafadc195837c898de8c56faa4202dbd3bfc317"
     ],
     "lib/charms/apt.py": [
       "layer:apt",
@@ -299,7 +299,7 @@
     "reactive/layer_example.py": [
       "mysql-example",
       "static",
-      "35b6b2878f4dd938838db7d9376d02d361824d5490857fc33a45c92476ae5afe"
+      "a687959ebb37560b5940641b326659d7602585e1521cf3ef63d22b301530044c"
     ],
     "reactive/status.py": [
       "layer:status",
@@ -334,7 +334,7 @@
     "version": [
       "mysql-example",
       "dynamic",
-      "4ddad5d82368b38abec78688390214b360479b44d7c04bf7e1f48d07dc58fd2d"
+      "9862e16b46c65cc1fb3174470bbc0d573bf53b0f6d7359908404004d5ccb5e19"
     ],
     "wheelhouse.txt": [
       "layer:basic",

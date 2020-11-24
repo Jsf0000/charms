@@ -5,4 +5,4 @@ includes:
 options:
   apt:
     packages:
-     - hello
+     - mysql-server
