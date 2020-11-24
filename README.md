@@ -1,6 +1,6 @@
 # charms
 
-With these command you can install mysql-server
+With these commands you can install mysql-server using a charm
 
 first
 
