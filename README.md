@@ -20,6 +20,7 @@ Master
 Char-basic
 
   - Has the basic example with hello package
+  
 Mysql-charm
   
   - Has the advance code for more taks with mysql, but the result wasn't success.
