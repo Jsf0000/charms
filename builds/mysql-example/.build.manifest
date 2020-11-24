@@ -17,7 +17,7 @@
       "url": "layer:apt"
     },
     {
-      "rev": "16ddc9b14281bcc18a8d67a7caba6f5614d50624",
+      "rev": "d34d18c259ebe40de73091f45dd32ef9b17c6f47",
       "url": "mysql-example"
     },
     {
@@ -299,7 +299,7 @@
     "reactive/layer_example.py": [
       "mysql-example",
       "static",
-      "a687959ebb37560b5940641b326659d7602585e1521cf3ef63d22b301530044c"
+      "86257f84777b341129f56567d062b223114f65094369b40afb5d5b6ad300442e"
     ],
     "reactive/status.py": [
       "layer:status",
@@ -334,7 +334,7 @@
     "version": [
       "mysql-example",
       "dynamic",
-      "9862e16b46c65cc1fb3174470bbc0d573bf53b0f6d7359908404004d5ccb5e19"
+      "afdf697f8e2e13efc869aa261025067e79023b6aca150c9696d9f07a308d6b44"
     ],
     "wheelhouse.txt": [
       "layer:basic",
