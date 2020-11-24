@@ -23,4 +23,4 @@ Char-basic
   
 Mysql-charm
   
-  - Has the advance code for more taks with mysql, but the result wasn't success.
+  - Has the advance code for more tasks with mysql, but the result wasn't success.
